@@ -1,5 +1,5 @@
 from sys import platform
 
 
-def osIs():
+def os_is():
     print(f"Your os is {platform}")
